@@ -6,7 +6,7 @@ import ThemeColorSwitcher from "./components/ThemeColorSwitcher";
 function App() {
   return (
     <main className="bg-white dark:bg-black relative">
-      <div className="py-24 sm:py-32">
+      <div className="py-5">
         <div className="mx-auto max-w-7xl px-4 lg:px-0">
           <ThemeSwitcher />
 
@@ -24,7 +24,7 @@ function App() {
         </div>
       </div>
 
-      <FAQ />
+      {/* <FAQ /> */}
     </main>
   );
 }

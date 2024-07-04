@@ -1,6 +1,6 @@
 function FAQ() {
   return (
-    <div className="max-w-screen-xl p-8 mx-auto pb-52">
+    <div className="max-w-screen-xl p-8 mx-auto pb-52 d-none">
       <h2 className="mb-12 text-3xl font-extrabold leading-9 text-gray-900 dark:text-gray-100 underline underline-offset-6 decoration-8 decoration-brand">
         FAQs
       </h2>
